@@ -178,13 +178,13 @@ Ziad Maher al-Najjar,17,killed in Khan Younis
 Ziad Salem al-Shawi,25,killed in Rafah
 Mohammed Yassir Hamdan,24,killed in Gaza
 Mohammed Shakib al-Agha,22,killed in Khan Younis
-Mohammed Younis. Abu Youssef,25,killed in Khan Younis
+Mohammed Younis Abu Youssef,25,killed in Khan Younis
 Sara Omar Sheikh al-Eid,4,killed in Rafah
 Omar Ahmed Sheikh al-Eid,24,killed in Rafah
 Jihad Ahmed Sheikh al-Eid,48,killed in Rafah
  Kamal Atef Yousuf Abu Taha,16,killed in Khan Younis
 Ismael Nabil Ahmed Abu Hatab,21,killed in Khan Younis
-Ahmed Younis. Abu Youssef,28,killed in Khan Younis
+Ahmed Younis Abu Youssef,28,killed in Khan Younis
 Bushra Khalil Zaareb,53,killed in Rafah
 Atwa Umeir al-Ammour,58,killed in Khan Younis
 Ismael Salim al-Najjar,46,killed in Khan Younis
@@ -242,7 +242,7 @@ Mohamed Shadi Ntaiz,15,killed in Gaza
 Salah Saleh El-Shafei,24,killed in Khan Younis
 Majdi Suleiman Salama Jbara,22,killed in Rafah
 Fares Jumaa al-Mahmoum,0.417,killed in Rafah
-Nasim Mahmoud Naser. 22,killed in Beit Hanoun
+Nasim Mahmoud Naser,22,killed in Beit Hanoun
 Karam Mahmoud Naseer,20,killed in Beit Hanoun
 Omar Eid Awad al-Mahmoum,18,killed in Rafah
 Salima Suleiman Ghayadh,70,killed in Rafah 
@@ -302,7 +302,7 @@ Mahmoud Reda Salhiya,56,killed in Khan Younis
 Mostafa Reda Salhiya,21,killed in Khan Younis
 Mohammed Mostafa Reda Salhiya,22,killed in Khan Younis
 Ibrahim Jamal Kamal Nasr,13,killed in Khan Younis 
-Wasm Reda Salhiya 15,killed in Khan Younis 
+Wasm Reda Salhiya,15,killed in Khan Younis 
 Ahmed Mahmoud Hasan Aziz,34,killed in Abraj Al-Nada
 Saeed Ali Issa,30,killed in Hajar Al-Deek 
 Raed Walid Laqqan,27,killed in Khan Younis
@@ -332,8 +332,8 @@ Mohamed Ahmed al-Saaedi,18
 Tarek al-Hattou,26
 mahmoud al-Sherif,24
 Abdel Rahman Barrack,23
-Mahmoud Anwar abu-shabab 16,killed in rafah
-Moemin Tayseer Al Abd Abudan 24,killed in Al-Wustah
+Mahmoud Anwar abu-shabab,16,killed in rafah
+Moemin Tayseer Al Abd Abudan,24,killed in Al-Wustah
 Abdalaziz Sameer abu-zaatar,31,killed in Al-Wustah
 Mohamed Ziyad Zaboot,24,killed in Gaza
 Hatim Ziyad Zaboot,22,killed in Gaza
@@ -432,7 +432,7 @@ Mohammed Ashraf Rafiq Ayyad,6
 Sakafi al Mohammed Hassan Mohammed Al Sakafi,53
 Mohammed Rami Fathi Ayyad,2
 Mohammed Raed Ihsan Akeela,19
-Mohammed Ziyad Ali al Zaaboot 23
+Mohammed Ziyad Ali al Zaaboot,23
 Mohammed Mohammed Ali Mouhareb Jundiya,38
 Mohammed Hani Mohammed al Hallaq,2
 Marah Shaker Ahmed al Jama,11
@@ -531,9 +531,9 @@ Yasmine Ahmed Abou Amoor,25,killed in Rafah
 Sameh Zaheer Alsuwafeeri,29
 Mohammed Mousa Abou Fayyad,36
 Fatima Hassan Azzam,70,killed in Al Zaytoun
-Mariam Hassan Azzam 50,killed in Al Zaytoun
-Suha Naeem Al Kharwat 25,killed in north Gaza
-Mona Rami Al Kharwat 4,killed in north Gaza
+Mariam Hassan Azzam,50,killed in Al Zaytoun
+Suha Naeem Al Kharwat,25,killed in north Gaza
+Mona Rami Al Kharwat,4,killed in north Gaza
 Aesha Yasser al-Qassas,,killed in Gaza City
 Nasma Iyad al-Qassas,,killed in Gaza City
 Lamyaa Iyad al-Qassas,,killed in Gaza City

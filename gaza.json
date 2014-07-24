@@ -900,7 +900,7 @@
     "location_of_death": "Khan Younis"
   },
   {
-    "name": "Mohammed Younis. Abu Youssef",
+    "name": "Mohammed Younis Abu Youssef",
     "age": 25,
     "location_of_death": "Khan Younis"
   },
@@ -930,7 +930,7 @@
     "location_of_death": "Khan Younis"
   },
   {
-    "name": "Ahmed Younis. Abu Youssef",
+    "name": "Ahmed Younis Abu Youssef",
     "age": 28,
     "location_of_death": "Khan Younis"
   },
@@ -1220,9 +1220,9 @@
     "location_of_death": "Rafah"
   },
   {
-    "name": "Nasim Mahmoud Naser. 22",
-    "age": null,
-    "location_of_death": null
+    "name": "Nasim Mahmoud Naser",
+    "age": 22,
+    "location_of_death": "Beit Hanoun"
   },
   {
     "name": "Karam Mahmoud Naseer",
@@ -1520,9 +1520,9 @@
     "location_of_death": "Khan Younis"
   },
   {
-    "name": "Wasm Reda Salhiya 15",
-    "age": null,
-    "location_of_death": null
+    "name": "Wasm Reda Salhiya",
+    "age": 15,
+    "location_of_death": "Khan Younis"
   },
   {
     "name": "Ahmed Mahmoud Hasan Aziz",
@@ -1670,14 +1670,14 @@
     "location_of_death": null
   },
   {
-    "name": "Mahmoud Anwar abu-shabab 16",
-    "age": null,
-    "location_of_death": null
+    "name": "Mahmoud Anwar abu-shabab",
+    "age": 16,
+    "location_of_death": "rafah"
   },
   {
-    "name": "Moemin Tayseer Al Abd Abudan 24",
-    "age": null,
-    "location_of_death": null
+    "name": "Moemin Tayseer Al Abd Abudan",
+    "age": 24,
+    "location_of_death": "Al-Wustah"
   },
   {
     "name": "Abdalaziz Sameer abu-zaatar",
@@ -2170,8 +2170,8 @@
     "location_of_death": null
   },
   {
-    "name": "Mohammed Ziyad Ali al Zaaboot 23",
-    "age": null,
+    "name": "Mohammed Ziyad Ali al Zaaboot",
+    "age": 23,
     "location_of_death": null
   },
   {
@@ -2665,19 +2665,19 @@
     "location_of_death": "Al Zaytoun"
   },
   {
-    "name": "Mariam Hassan Azzam 50",
-    "age": null,
-    "location_of_death": null
+    "name": "Mariam Hassan Azzam",
+    "age": 50,
+    "location_of_death": "Al Zaytoun"
   },
   {
-    "name": "Suha Naeem Al Kharwat 25",
-    "age": null,
-    "location_of_death": null
+    "name": "Suha Naeem Al Kharwat",
+    "age": 25,
+    "location_of_death": "north Gaza"
   },
   {
-    "name": "Mona Rami Al Kharwat 4",
-    "age": null,
-    "location_of_death": null
+    "name": "Mona Rami Al Kharwat",
+    "age": 4,
+    "location_of_death": "north Gaza"
   },
   {
     "name": "Aesha Yasser al-Qassas",

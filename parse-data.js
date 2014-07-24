@@ -25,8 +25,8 @@
 
 var fs = require("fs");
 
-var input = process.argv[2] || "gaza.raw";
-var output = process.argv[3] || (input.replace(/\.raw$/, "") + ".json");
+var input = process.argv[2] || "gaza.csv";
+var output = process.argv[3] || (input.replace(/\.csv$/, "") + ".json");
 
 var dead = [];
 

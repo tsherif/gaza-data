@@ -1,0 +1,3142 @@
+[
+  {
+    "name": "Mohammed Shaaban",
+    "age": 24,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Amjad Shaaban",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Khader al-Bashiliki",
+    "age": 45,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rashad Yassin",
+    "age": 27,
+    "location_of_death": "the Nusseirat refugee camp"
+  },
+  {
+    "name": "Mohammed Ayman Ashour",
+    "age": 15,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Riad Mohammed Kawareh",
+    "age": 50,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Bakr Mohammed Judeh",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ammar Mohammed Judeh",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hussein Yousef Kawareh",
+    "age": 13,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Ibrahim Kawareh",
+    "age": 50,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Aahed Habib",
+    "age": 22,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmed Moussa Habib",
+    "age": 16,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Saqr Ayesh al-Ajuli",
+    "age": 22,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Ahmed Nael Mahdi",
+    "age": 16,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Basil Salem Kawareh",
+    "age": 10,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hafez Mohammed Hamad",
+    "age": 30,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Ibrahim Mohammed Hamad",
+    "age": 26,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mahdi Mohammed Hamad",
+    "age": 46,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Fawziya Khalil Hamad",
+    "age": 62,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Dunya Mahdi Hamad",
+    "age": 16,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Suha Hamad",
+    "age": 25,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Suleiman Salman Abu Sowaween",
+    "age": 22,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Siraj Ayad Abdelal",
+    "age": 8,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Abdel Hadi Jumaa al-Sufi",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Rashid al-Kafarneh",
+    "age": 30,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Nayfeh Farajallah",
+    "age": 80,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdel Nasser Abu Kweik",
+    "age": 60,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Khaled Abu Kweik",
+    "age": 31,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mohammed Arif",
+    "age": 13,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed Malake",
+    "age": 1.5,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hanaa Malake",
+    "age": 27,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hatem Abu Salem",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Khaled al-Nimre",
+    "age": 22,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Sahar Hamdan al-Masri",
+    "age": 40,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mohammed Ibrahim al-Masri",
+    "age": 14,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mohammed Khalaf al-Nawasra",
+    "age": 4,
+    "location_of_death": "al-Maghazi"
+  },
+  {
+    "name": "Nidal Khalaf al-Nawasra",
+    "age": 5,
+    "location_of_death": "al-Maghazi"
+  },
+  {
+    "name": "Aicha Najm",
+    "age": 20,
+    "location_of_death": "al-Maghazi"
+  },
+  {
+    "name": "Salah Awad al-Nawasra",
+    "age": 6,
+    "location_of_death": "al-Maghazi"
+  },
+  {
+    "name": "Mahmoud Nahed al-Nawasra",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Amal Yousef Abdel Ghafour",
+    "age": 27,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raneem Judeh Abdel Ghafour",
+    "age": 1.5,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ibrahim Daoud al-Balaawi",
+    "age": 24,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Abdel Rahman Jamal al-Zamli",
+    "age": 22,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Ibrahim Ahmed Abdeen",
+    "age": 42,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mustafa Abu Murr",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Khaled Abu Murr",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mazen Faraj al-Jarba",
+    "age": 30,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Marwan Isleem",
+    "age": 27,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Hani Saleh Hamad",
+    "age": 57,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Ibrahim Hamad",
+    "age": 20,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Salima Hassan Maslam al-Arja",
+    "age": 60,
+    "location_of_death": null
+  },
+  {
+    "name": "Mariam Atiah Mohammed al-Arja",
+    "age": 11,
+    "location_of_death": null
+  },
+  {
+    "name": "Hamid Shihab",
+    "age": 37,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ibrahim Khalil Qanan",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Khalil Qanan",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Suleiman al-Astal",
+    "age": 55,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hamdi Badie Sawali",
+    "age": 33,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed al-Akkad",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Sawali",
+    "age": 28,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raed Shalat",
+    "age": 37,
+    "location_of_death": null
+  },
+  {
+    "name": "Mahmoud Lutfi al-Hajj",
+    "age": 58,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Asmaa Mahmoud al-Hajj",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Tarik Saad al-Hajj",
+    "age": 18,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Saad Mahmoud al-Hajj",
+    "age": 17,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Najlaa Mahmoud al-Hajj",
+    "age": 29,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Fatima al-Hajj",
+    "age": 12,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Omar al-Hajj",
+    "age": 20,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Basima Abdel Fattah al-Hajj",
+    "age": 57,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Salim al-Astal",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Moussa Mohammed al-Astal",
+    "age": 50,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raed al-Zawarea",
+    "age": 33,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Bahaa Abu al-Leil",
+    "age": 35,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Salem Qandil",
+    "age": 27,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Amer al-Fayyoumi",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Abdallah Ramadan Abu Ghazal",
+    "age": 5,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Islamel Hassan Abu Jamaa",
+    "age": 19,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Ehsan Farwane",
+    "age": 18,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Talee Wallud",
+    "age": 26,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Hazem Ibrahim Baaloushe",
+    "age": 30,
+    "location_of_death": "a civilian car in Jabalia"
+  },
+  {
+    "name": "Udai Rafik al-Sultan",
+    "age": 27,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Hassan Awda Abu Jamaa",
+    "age": 75,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yasmin Mohammed al-Mutwak",
+    "age": 4,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Ahmed Zaher Hamdan",
+    "age": 24,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mohammed Kamal al-Kahlout",
+    "age": 25,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Sami Andan Shaldan",
+    "age": 25,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Jumaa Atiah Shallouf",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Bassam Abdel Rahman Khattab",
+    "age": 6,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Abdellah Mustafa Abu Mahrouk",
+    "age": 22,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Anas Rizk Abu al-Qas",
+    "age": 33,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Nour Marwan al-Najdi",
+    "age": 10,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Mounir Ashour",
+    "age": 26,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Ghalia Deeb Jaber Ghanem",
+    "age": 57,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Wissam Abdel Razek Hassan Ghannam",
+    "age": 31,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mahmoud Razek Hassan Ghannam",
+    "age": 28,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Kifah Shahadeh Deeb Ghannam",
+    "age": 33,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Raed Hani Abu Hani",
+    "age": 31,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Shahraman Ismaeil Abu al-Qas",
+    "age": 42,
+    "location_of_death": "Al-Breij"
+  },
+  {
+    "name": "Mazen Mustafa Aslan",
+    "age": 63,
+    "location_of_death": "Al-Breij"
+  },
+  {
+    "name": "Mohammed Rabih Abu Humeidan",
+    "age": 65,
+    "location_of_death": "northern Gaza"
+  },
+  {
+    "name": "Shahd al-Qreinawi",
+    "age": 7,
+    "location_of_death": "Al-Breij"
+  },
+  {
+    "name": "Abdel Halim Abdel Moeti",
+    "age": 54,
+    "location_of_death": null
+  },
+  {
+    "name": "Hussein al-Mamlouk",
+    "age": 47,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Saber Sukkar",
+    "age": 80,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Nasser Mohammed Sammame",
+    "age": 49,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rami Abu Musaed",
+    "age": 23,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Mohammed al-Sumeiri",
+    "age": 24,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Husam Eddine al-Razayne",
+    "age": 39,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Anas Youssef Qandil",
+    "age": 17,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Abdel Rahim Saleh al-Khatib",
+    "age": 38,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Youssef Mohammed Qandil",
+    "age": 33,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Mohammed Idris Abu Sanena",
+    "age": 20,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Hala Weshahi",
+    "age": 31,
+    "location_of_death": "the disabled centre in Jabalia"
+  },
+  {
+    "name": "Suha Abu Saada",
+    "age": 38,
+    "location_of_death": "the disabled centre in Jabalia"
+  },
+  {
+    "name": "Ali Nabil Basal",
+    "age": 32,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed Bassem al-Halabi",
+    "age": 28,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed al-Suweiti",
+    "age": 20,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ibrahim Nabil Hamade",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hassan Ahmed Abu Ghoush",
+    "age": 24,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmed Mazen al-Balawi",
+    "age": 26,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rateb Sobhi Youssuf al-Saifi",
+    "age": 22,
+    "location_of_death": "Al-Zaitoun"
+  },
+  {
+    "name": "Azmi Mahmoud Taha Obeid",
+    "age": 51,
+    "location_of_death": "shelling on Radwan street"
+  },
+  {
+    "name": "Nidal Mohammed Ibrahim Abu al-Malsh",
+    "age": 22,
+    "location_of_death": "shelling on Radwan street"
+  },
+  {
+    "name": "Suleiman Saeed Younis Obeid",
+    "age": 56,
+    "location_of_death": "shelling on Radwan street"
+  },
+  {
+    "name": "Ghassan Ahmed al-Masri",
+    "age": 25,
+    "location_of_death": "shelling on Radwan street"
+  },
+  {
+    "name": "Mustafa Mohammed Taha Anabe",
+    "age": 58,
+    "location_of_death": "shelling on Radwan street"
+  },
+  {
+    "name": "Rifaat Yousef Amer",
+    "age": 36,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Idriss Abo Sowaylim",
+    "age": 20,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Fadi Yaqoub Sukar",
+    "age": 25,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Qassim Jabr Adwan Ouda",
+    "age": 16,
+    "location_of_death": "killed Khan Younis"
+  },
+  {
+    "name": "Mohammad Ahmed Bassal",
+    "age": 19,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Muhannad Yousuf Daheir",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mahmoud Abdallah Sharahta al-Shammal",
+    "age": 53,
+    "location_of_death": null
+  },
+  {
+    "name": "Shadi Mohammed Zaareb",
+    "age": 21,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Imad Bassam Zaareb",
+    "age": 21,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Nahed Naeem al-Batesh",
+    "age": 41,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Bahaa Majed al-Batesh",
+    "age": 28,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Qusai Issam al-Batesh",
+    "age": 12,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Aziza Yousuf al-Batesh",
+    "age": 59,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed Issam al-Batesh",
+    "age": 17,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmed Naaman al-Batesh",
+    "age": 27,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Yahia Alaa al-Batesh",
+    "age": 18,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Jalal Majed al-Batesh",
+    "age": 26,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mahmoud Majed al-Batesh",
+    "age": 22,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Marwa Majed al-Batesh",
+    "age": 25,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Majid Sobhi al-Batesh",
+    "age": null,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Khaled Majed al-Batesh",
+    "age": 20,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ibrahim Majed al-Batesh",
+    "age": 18,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Manar Majed al-Batesh",
+    "age": 13,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Amal Hassan al-Batesh",
+    "age": 49,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Anas Alaa al-Batesh",
+    "age": 10,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Qusai Alaa al-Batesh",
+    "age": null,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rami Abu Shanab",
+    "age": 25,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Khawla al-Hawajri",
+    "age": 25,
+    "location_of_death": "Nuseirat"
+  },
+  {
+    "name": "Mohammed Ghazi Arif",
+    "age": 35,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ghazi Mustafa Arif",
+    "age": 62,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmed Yousef Dalloul",
+    "age": 47,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hijazia Hamed al-Hilou",
+    "age": 80,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Muayed al-Aaraj",
+    "age": 3,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Fawziya Abdelal",
+    "age": 73,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Haitham Ashraf Zaareb",
+    "age": 21,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Laila Hassan al-Awdat al-Maghazi",
+    "age": 41,
+    "location_of_death": null
+  },
+  {
+    "name": "Hussam Ibrahim al-Najjar",
+    "age": 14,
+    "location_of_death": null
+  },
+  {
+    "name": "Ruwaida Abu Harb",
+    "age": 30,
+    "location_of_death": null
+  },
+  {
+    "name": "Izzedine Bulbul",
+    "age": 25,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hussein Abdel Qader Muheisen",
+    "age": 19,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Qassem Talal Hamdan",
+    "age": 23,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Maher Thabet Abu Mur",
+    "age": 24,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Salem Abu Breis",
+    "age": 65,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Saddam Mousa Moammar",
+    "age": 23,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Moussa Shahda Moammar",
+    "age": 60,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Hanadi Hamdi Moammar",
+    "age": 27,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Adham Mohammed Abdel-Fatah Abdelal",
+    "age": 25,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hamid Suleiman Abu al-Araj",
+    "age": 60,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Abdallah Mahmoud Baraka",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Tamer Salam Qudeih",
+    "age": 37,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ziad Maher al-Najjar",
+    "age": 17,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ziad Salem al-Shawi",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Yassir Hamdan",
+    "age": 24,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed Shakib al-Agha",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Younis. Abu Youssef",
+    "age": 25,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Sara Omar Sheikh al-Eid",
+    "age": 4,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Omar Ahmed Sheikh al-Eid",
+    "age": 24,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Jihad Ahmed Sheikh al-Eid",
+    "age": 48,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Kamal Atef Yousuf Abu Taha",
+    "age": 16,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ismael Nabil Ahmed Abu Hatab",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Younis. Abu Youssef",
+    "age": 28,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Bushra Khalil Zaareb",
+    "age": 53,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Atwa Umeir al-Ammour",
+    "age": 58,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ismael Salim al-Najjar",
+    "age": 46,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Ahmed Ibrahim al-Najjar",
+    "age": 49,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Suleiman Abu Louli",
+    "age": 33,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Sobhi Abdel Hamid Mousa",
+    "age": 77,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ismael Fattouh",
+    "age": 24,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Saleh Saeed Dahleez",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Yassir Eid al-Mahmoum",
+    "age": 18,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Khalil al-Ashafi",
+    "age": 66,
+    "location_of_death": "Hajar al-Deek"
+  },
+  {
+    "name": "Mohammed Abdallah al-Rahuk",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Ismael Abu Ouda",
+    "age": 27,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Sabri al-Debari",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Abdallah Mohammed Abdallah al-Arjani",
+    "age": 19,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Adil Ahmed al-Nawajha",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Tayseer Sharab",
+    "age": 23,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Farid Mahmoud Abu Daqqa",
+    "age": 33,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ashraf Khalil Abu Shana",
+    "age": 33,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Khodra Salameh Abu Dakka",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Omar Ramadan Hassan Abu Dakka",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ibrahim Ramadan",
+    "age": 10,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahed Bakr",
+    "age": 10,
+    "location_of_death": "Gaza beach"
+  },
+  {
+    "name": "Zakaria Bakr",
+    "age": 10,
+    "location_of_death": "Gaza beach"
+  },
+  {
+    "name": "Mohammed Bakr",
+    "age": 11,
+    "location_of_death": "Gaza beach"
+  },
+  {
+    "name": "Ismail Bakr",
+    "age": 9,
+    "location_of_death": "Gaza beach"
+  },
+  {
+    "name": "Abdel Rahman Khalil al-Sarhi",
+    "age": 37,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hamza Raed Thari",
+    "age": 6,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Akram Mohamed Abo Amer",
+    "age": 34,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Kamal Mohamed Mohamed Abo Amer",
+    "age": 38,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hussein Abdel Latif Al Astal",
+    "age": 23,
+    "location_of_death": "Kahn Younis"
+  },
+  {
+    "name": "Roqayyah Al Astal",
+    "age": 70,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yasmin Al Astal",
+    "age": 4,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Osama Mahmoud Al Astal",
+    "age": 6,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hussam Jamal Shamloukh",
+    "age": 23,
+    "location_of_death": "Sheikh Ajleen in Gaza"
+  },
+  {
+    "name": "Mohamed Kamel Abdel Rahman",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Kamel Abdul-Rahman",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Mahmoud al-Qadim",
+    "age": 22,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Zainab Mohamed Saeed al-Abadla",
+    "age": 71,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Abdul-Rahman Hasouna",
+    "age": 67,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Ahmed Raihan",
+    "age": 23,
+    "location_of_death": "Beit Lahya"
+  },
+  {
+    "name": "Saleh Salem Fayyad",
+    "age": 25,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Abdullah Salem al-Akhras",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Bashir Mohamed Abdul-Aal",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Ziad Ghanem",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohamed Ahmed al-Hut",
+    "age": 41,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Ismaeil Youssef El Kafarneh",
+    "age": null,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Fullah Tarek Shehebar",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Jehad Essam Shehebar",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Wassim Essam Shehebar",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Hamza Hossam Al Abadleh",
+    "age": 29,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Rahaf Khalil Al Jabbour",
+    "age": 4,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Abed Ali Ntaiz",
+    "age": 26,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Salem Ntaiz",
+    "age": 4,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Shadi Ntaiz",
+    "age": 15,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Salah Saleh El-Shafei",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Majdi Suleiman Salama Jbara",
+    "age": 22,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Fares Jumaa al-Mahmoum",
+    "age": 0.417,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Nasim Mahmoud Naser. 22",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Karam Mahmoud Naseer",
+    "age": 20,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Omar Eid Awad al-Mahmoum",
+    "age": 18,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Salima Suleiman Ghayadh",
+    "age": 70,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Rani Saqr Abu Tawila",
+    "age": 30,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hammad Abdul-Karim Hammad Abu Lihya",
+    "age": 23,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Abdul Fattah Rashad Fayyad",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Mohammed Fayyaz",
+    "age": 25,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Basem Mohammed Mahmoud Madhi",
+    "age": 22,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Amal Khader Ibrahim Dabour",
+    "age": 40,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Ismail Youssef Taha Qassim",
+    "age": 59,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Bilal Mahmoud Radwan",
+    "age": 23,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Munther Radwan",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Fawzi Radwan",
+    "age": 23,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Fawzi Radwan",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hani Asad Abdul-Karim al-Shami",
+    "age": 35,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Hamdan Abdul-Karim al-Shami",
+    "age": 35,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Fawzi Redouane",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ahmed Ismail Abu Muslim Abraj",
+    "age": 14,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Ismail Abu Muslim Abraj",
+    "age": 13,
+    "location_of_death": null
+  },
+  {
+    "name": "Hossam Muslim Abu Eissa",
+    "age": 26,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Abdallah Bahnassaoui",
+    "age": 25,
+    "location_of_death": null
+  },
+  {
+    "name": "Saleh Zgheidi",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Alaa Abu Shabat",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Ahmed Saled al-Ghalban",
+    "age": 23,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Hamada Abdallah Mohammed Al Bashti",
+    "age": 21,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdallah Jamal Smeiri",
+    "age": 17,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Ali Darwish",
+    "age": 40,
+    "location_of_death": null
+  },
+  {
+    "name": "Walaa Al Qarra",
+    "age": 20,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raafat Mohammed Al Bahloul",
+    "age": 35,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Awad Matar",
+    "age": 37,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hamza Mohamed Abu Hsain",
+    "age": 27,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Youssef Hassan Ibrahim Al-Asstal",
+    "age": 23,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Emad Hamed Elwan",
+    "age": 7,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Qassem Hamed Elwan",
+    "age": 4,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Sara Mohammed Al Bustan",
+    "age": 13,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rizk Ahmed Al Hayek",
+    "age": 2,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Naim Moussa Abou Jarad",
+    "age": 23,
+    "location_of_death": null
+  },
+  {
+    "name": "Abed Moussa Abu Jarad",
+    "age": 30,
+    "location_of_death": null
+  },
+  {
+    "name": "Seham Moussa Abu Jarad",
+    "age": 26,
+    "location_of_death": null
+  },
+  {
+    "name": "Rajaa Alyan Abu Jarad",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Child from Abu Jarad family",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mustafa Faisal Abu Sneina",
+    "age": 32,
+    "location_of_death": null
+  },
+  {
+    "name": "Ammar Faisal Abu Sneina",
+    "age": 18,
+    "location_of_death": null
+  },
+  {
+    "name": "Nizar Fayez Abu Sneina",
+    "age": 38,
+    "location_of_death": null
+  },
+  {
+    "name": "Ismail Ramadan Salmy Alllawlahi",
+    "age": 21,
+    "location_of_death": null
+  },
+  {
+    "name": "Ghassan Salem Mussa Abu Azeb",
+    "age": 28,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Haniyeh Abderrhman Abu Jarad",
+    "age": 2,
+    "location_of_death": null
+  },
+  {
+    "name": "Mussa Abderrahman Abu Jarad",
+    "age": 0.5,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahlam Mussa Abu Jarad",
+    "age": 4,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Talal Al Sanee",
+    "age": 20,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Amjad Salem Shaeth",
+    "age": 15,
+    "location_of_death": "Moraj"
+  },
+  {
+    "name": "Ayad Ismael AlRaqab",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yehia Bassam Mohammed AlSarri",
+    "age": 20,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Bassam AlSarri",
+    "age": 17,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mahmoud Reda Salhiya",
+    "age": 56,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mostafa Reda Salhiya",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Mostafa Reda Salhiya",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ibrahim Jamal Kamal Nasr",
+    "age": 13,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Wasm Reda Salhiya 15",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Mahmoud Hasan Aziz",
+    "age": 34,
+    "location_of_death": "Abraj Al-Nada"
+  },
+  {
+    "name": "Saeed Ali Issa",
+    "age": 30,
+    "location_of_death": "Hajar Al-Deek"
+  },
+  {
+    "name": "Raed Walid Laqqan",
+    "age": 27,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Jihad al-Kara",
+    "age": 29,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Rochdi Khaked Nasr",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raed Walid Laqqan",
+    "age": 27,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Raafat Ali Bahloul",
+    "age": 36,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Bilal Ismaeel Abu Daqqa",
+    "age": 33,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Ismaeel Samour",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ismaeel Ramadan al-Loulhi",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohamed Ziad al-Rahl",
+    "age": 6,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Mohamed Abu Zaanouna",
+    "age": 36,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Rafiq al-Rahl",
+    "age": 22,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Fadhl Mohamed al-Banna",
+    "age": 29,
+    "location_of_death": "Jabalya"
+  },
+  {
+    "name": "Mohamed Atallah Awda Saadat",
+    "age": 25,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Mohamed Abel Rahman Abu Hamad",
+    "age": 25,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Maali Abu Zeid al-Wasta",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Mahmoud Abdel Hamid al-Zouaydi",
+    "age": 23,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Dalia Abdel Hamid al-Zouaydi",
+    "age": 37,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Rouya Mahmoud al-Zouaydi",
+    "age": 6,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Nagham Mahmoud al-Zouaydi",
+    "age": 2,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Ahmed Hamouda",
+    "age": 10,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Omar hamouda",
+    "age": 7,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Mohamed Rezq Mohamed Hamouda",
+    "age": 18,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Mohamed Khaled Jamil al-Zouaydi",
+    "age": 20,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Mohamed Ahmed al-Saaedi",
+    "age": 18,
+    "location_of_death": null
+  },
+  {
+    "name": "Tarek al-Hattou",
+    "age": 26,
+    "location_of_death": null
+  },
+  {
+    "name": "mahmoud al-Sherif",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdel Rahman Barrack",
+    "age": 23,
+    "location_of_death": null
+  },
+  {
+    "name": "Mahmoud Anwar abu-shabab 16",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Moemin Tayseer Al Abd Abudan 24",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdalaziz Sameer abu-zaatar",
+    "age": 31,
+    "location_of_death": "Al-Wustah"
+  },
+  {
+    "name": "Mohamed Ziyad Zaboot",
+    "age": 24,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hatim Ziyad Zaboot",
+    "age": 22,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmed Maheer Mohamed Abu-Thuraya",
+    "age": 25,
+    "location_of_death": "Al-Wustah"
+  },
+  {
+    "name": "Abdullah Ghazy Abdullah Al-masry",
+    "age": 30,
+    "location_of_death": "Al-Wustah"
+  },
+  {
+    "name": "Ayman Hashim Al-naoqi",
+    "age": 25,
+    "location_of_death": "Al-Wustah"
+  },
+  {
+    "name": "Akram Mahmoud Al-Mutawaq",
+    "age": 37,
+    "location_of_death": "jabaliah"
+  },
+  {
+    "name": "Salim Ali Abu Al-saada",
+    "age": null,
+    "location_of_death": "khan younis"
+  },
+  {
+    "name": "Husni Mahmoud Alabasi",
+    "age": 56,
+    "location_of_death": "rafah"
+  },
+  {
+    "name": "Mohamed Mahmoud mamar",
+    "age": 30,
+    "location_of_death": "rafah"
+  },
+  {
+    "name": "Hamzah Mahmoud mamar",
+    "age": 21,
+    "location_of_death": "rafah"
+  },
+  {
+    "name": "Anas Mahmoud mamar",
+    "age": 17,
+    "location_of_death": "rafah"
+  },
+  {
+    "name": "Mohamed Ali Jundiya",
+    "age": 38,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohamed Ali moharib",
+    "age": 38,
+    "location_of_death": "Al- Shujayea Area"
+  },
+  {
+    "name": "Fahmi Abdalaziz Abu-saeed",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Tawqeeq Zanoon",
+    "age": 26,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Suhaib Ali Juma Abu-qurat",
+    "age": 21,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Asama Khalil Alhay",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Khalil Asama Alhay",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Amamat asama Alhay",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Hala Saqir Abu-heen",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Hameed Sabah Mohamed Abu-fojo",
+    "age": 22,
+    "location_of_death": null
+  },
+  {
+    "name": "Tawfeeq Marshood",
+    "age": 52,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hiba Hamid Alsheikh Khalil",
+    "age": 14,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Tawfeeq Albarawi Marshood",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Ahmed Esehaq Al-Ramalaweey",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Hiba Hamid Alsheikh Khalil",
+    "age": null,
+    "location_of_death": "Al-Shujayea area(Name is Repeated"
+  },
+  {
+    "name": "Marwa Sulaiman AlSarsaweia",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Raeid Mansoor Nayfa",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Asama Rabhi Eid",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Ahid Moosa Alsarsaq",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Al-Masaf Fooad Jabir",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Khalid Hamid",
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Al-Shujayea area"
+  },
+  {
+    "name": "Samar Osama Al Halaq",
+    "age": 29,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Kanan Akram Al Halaq",
+    "age": 5,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Hany Mohamed Al Halaq",
+    "age": 29,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Souad Mohamed Al Halaq",
+    "age": 62,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Saji Al Halaq",
+    "age": null,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Ibrahim Khalil Ammar",
+    "age": null,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": "Ahmed Yassen",
+    "age": null,
+    "location_of_death": "El-Ramal"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Rayan Tayseer Abo Jamea",
+    "age": 8,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Fatma Mahmoud Abo Jamea",
+    "age": null,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Manwa Abdelbasset Ahmed Al Sabea",
+    "age": 37,
+    "location_of_death": "Beit Hanoun"
+  },
+  {
+    "name": "Osama Khalil Ismeal Al Hayya",
+    "age": 30,
+    "location_of_death": null
+  },
+  {
+    "name": "Osama Rabahi Shata Ayyad",
+    "age": 31,
+    "location_of_death": null
+  },
+  {
+    "name": "Ibrahim Aref Ibrahim al Ghallayeeni",
+    "age": 26,
+    "location_of_death": null
+  },
+  {
+    "name": "Israa Yasser Atiya Hamdeeya",
+    "age": 28,
+    "location_of_death": null
+  },
+  {
+    "name": "Akram Mohammed Ali Alsakafi",
+    "age": 63,
+    "location_of_death": null
+  },
+  {
+    "name": "Eman Khalil Abd Ammar",
+    "age": 9,
+    "location_of_death": null
+  },
+  {
+    "name": "Eman Mohammed Ibrahim Hamada",
+    "age": 40,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Izhaq Yousif al Ramlawi",
+    "age": 33,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Sami Diab Ayyad",
+    "age": 27,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahmed Mohammed Ahmed Abu Zaanoona",
+    "age": 28,
+    "location_of_death": null
+  },
+  {
+    "name": "Omama Osama Khalil al Hayaa",
+    "age": 9,
+    "location_of_death": null
+  },
+  {
+    "name": "Tala Akram Ahmed al Atoowi",
+    "age": 7,
+    "location_of_death": null
+  },
+  {
+    "name": "Tawfiq Brawi Salem Marshood",
+    "age": 52,
+    "location_of_death": null
+  },
+  {
+    "name": "Hatem Ziyad Ali al Zaboot",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Riyad Mohammed Hamed",
+    "age": 25,
+    "location_of_death": null
+  },
+  {
+    "name": "Khadijah Ali Mousa Shehada",
+    "age": 62,
+    "location_of_death": null
+  },
+  {
+    "name": "Khalil Osama Khalil al Hayya",
+    "age": 7,
+    "location_of_death": null
+  },
+  {
+    "name": "Khalil Salem Ibrahim Mosbih",
+    "age": 53,
+    "location_of_death": null
+  },
+  {
+    "name": "Deema Adel Abdullah Asleem",
+    "age": 2,
+    "location_of_death": null
+  },
+  {
+    "name": "Dina Rushdi Omar Hammada",
+    "age": 15,
+    "location_of_death": null
+  },
+  {
+    "name": "Rahaf Akram Ismeal Abu Juma",
+    "age": 4,
+    "location_of_death": null
+  },
+  {
+    "name": "Saji Hassan Akram al Hallaq",
+    "age": 4,
+    "location_of_death": null
+  },
+  {
+    "name": "Samya Hamed Mohammed Alshiekh Khalil",
+    "age": 3,
+    "location_of_death": null
+  },
+  {
+    "name": "Soad Mohammed AbdulRazaq al Hallaq",
+    "age": 62,
+    "location_of_death": null
+  },
+  {
+    "name": "Samer Osama Khalil al Hallaq",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Shadi Ziyad Hassan Isleem",
+    "age": 15,
+    "location_of_death": null
+  },
+  {
+    "name": "Shireen Fathi Othman Ayyad",
+    "age": 18,
+    "location_of_death": null
+  },
+  {
+    "name": "Adel Abdullah Salem Isleem",
+    "age": 39,
+    "location_of_death": null
+  },
+  {
+    "name": "Assem Khalil Abd Ammar",
+    "age": 4,
+    "location_of_death": null
+  },
+  {
+    "name": "Ahed Saad Mousa al Sirsik",
+    "age": 30,
+    "location_of_death": null
+  },
+  {
+    "name": "Aisha Ali Mahmood Ziyad",
+    "age": 54,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdul Rahman Akram Mohammed al Sekafi",
+    "age": 22,
+    "location_of_death": null
+  },
+  {
+    "name": "AbdulRahman AbdulRazq AbdulRahman Alshaikh Khalil",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Abdullah Mansour Radhwan Ammarah",
+    "age": 23,
+    "location_of_death": null
+  },
+  {
+    "name": "Abed Rabouh Ahmed Mohammed Ziyad",
+    "age": 58,
+    "location_of_death": null
+  },
+  {
+    "name": "Assem Atiah Saeed al Sekafi",
+    "age": 26,
+    "location_of_death": null
+  },
+  {
+    "name": "Alaa Ziyad Hassan Isleem",
+    "age": 11,
+    "location_of_death": null
+  },
+  {
+    "name": "Alaa jamal Aldeen Mohammed Bardaa",
+    "age": 35,
+    "location_of_death": null
+  },
+  {
+    "name": "Ali Mohammed Hassan al Sekafi",
+    "age": 27,
+    "location_of_death": null
+  },
+  {
+    "name": "Omar Jameel Soubhi Hamoodeh",
+    "age": 10,
+    "location_of_death": null
+  },
+  {
+    "name": "Ghada Soubhi Saedi Ayyad",
+    "age": 9,
+    "location_of_death": null
+  },
+  {
+    "name": "Ghada Ibrahim Sulieman Adwan",
+    "age": 39,
+    "location_of_death": null
+  },
+  {
+    "name": "Fadi Ziyad Hassan Isleem",
+    "age": 10,
+    "location_of_death": null
+  },
+  {
+    "name": "Fatima AbdulRahim AbdulKadir Abu Amooneh",
+    "age": 55,
+    "location_of_death": null
+  },
+  {
+    "name": "Fidaa Rafiq Diab Ayyad",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Fahmi AbdulAziz Saad Abu Saeed",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Kanan Hassan Akram al Hallaq",
+    "age": 6,
+    "location_of_death": null
+  },
+  {
+    "name": "Maysa AbdulRahman Saeed al Sarsaw",
+    "age": 37,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Ashraf Rafiq Ayyad",
+    "age": 6,
+    "location_of_death": null
+  },
+  {
+    "name": "Sakafi al Mohammed Hassan Mohammed Al Sakafi",
+    "age": 53,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Rami Fathi Ayyad",
+    "age": 2,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Raed Ihsan Akeela",
+    "age": 19,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Ziyad Ali al Zaaboot 23",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Mohammed Ali Mouhareb Jundiya",
+    "age": 38,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Hani Mohammed al Hallaq",
+    "age": 2,
+    "location_of_death": null
+  },
+  {
+    "name": "Marah Shaker Ahmed al Jama",
+    "age": 11,
+    "location_of_death": null
+  },
+  {
+    "name": "Marwan Mounir Saleh Kunfouth",
+    "age": 23,
+    "location_of_death": null
+  },
+  {
+    "name": "Marwan Salman Ahmed Al Sarsaw",
+    "age": 13,
+    "location_of_death": null
+  },
+  {
+    "name": "Mousaab alKhair Saleh Aldeen Saeed Al Sekaf",
+    "age": 27,
+    "location_of_death": null
+  },
+  {
+    "name": "Mona Suleiman Ahmed Alshiekh Khalil",
+    "age": 49,
+    "location_of_death": null
+  },
+  {
+    "name": "Mona AbdulRahman Mahmood Ayyad",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Narmeen Rafiq Diab Ayyad",
+    "age": 20,
+    "location_of_death": null
+  },
+  {
+    "name": "Hala Akram Hassan al Hallaq",
+    "age": 27,
+    "location_of_death": null
+  },
+  {
+    "name": "Hala Soubhi Saeedi Ayyad",
+    "age": 25,
+    "location_of_death": null
+  },
+  {
+    "name": "Hala Saqer Hassan al Hayya",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Hani Mohammed Ahmed al Hallaq",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Hiba Hamed Mohammed Alshiekh Khalil",
+    "age": 13,
+    "location_of_death": null
+  },
+  {
+    "name": "Yousif Ahmed Younis Mostafa",
+    "age": 62,
+    "location_of_death": null
+  },
+  {
+    "name": "Yousif Salem Hamtou Habib",
+    "age": 62,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Joudat Tawfiq Ahmed Abou Jamaa",
+    "age": 24,
+    "location_of_death": null
+  },
+  {
+    "name": "Tawfiq Ahmed Abou Jamaa",
+    "age": 5,
+    "location_of_death": null
+  },
+  {
+    "name": "Haifaa Tawfiq Ahmed Abou Jamaa",
+    "age": 9,
+    "location_of_death": null
+  },
+  {
+    "name": "Yasmine Ahmed Salama Abou Jamaa",
+    "age": 25,
+    "location_of_death": null
+  },
+  {
+    "name": "Suhaila Bassam Ahmed Abou Jamaa",
+    "age": 35,
+    "location_of_death": null
+  },
+  {
+    "name": "Shaheenaz Waleed Mohammed Abou Jamaa",
+    "age": 1,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Husam Husam Abou Qanees",
+    "age": 5,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Younis Ahmed Mousa Shaikh al-Eid",
+    "age": 23,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Abdullah Tarad Abou Hajeer 16",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Zakariah Masoud alAshkar",
+    "age": 24,
+    "location_of_death": "Al Zaytoun"
+  },
+  {
+    "name": "Kamal Talal Hassam Almasri",
+    "age": 22,
+    "location_of_death": "Bait Hanoun"
+  },
+  {
+    "name": "Raed Issam Dawood",
+    "age": 30,
+    "location_of_death": "AlZaytoun"
+  },
+  {
+    "name": "Mahmoud Hassan Nakhla",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Kamal Masoud",
+    "age": 21,
+    "location_of_death": "Al Zaytoun"
+  },
+  {
+    "name": "Saleh Badaoui",
+    "age": 31,
+    "location_of_death": "Al Zaytoun"
+  },
+  {
+    "name": "Majdi Mahmoud Alyazaji",
+    "age": 56,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Sameeh",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Karam Ibrahim Atiya",
+    "age": 25,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Nidal Ali Abou Diqa 26",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Nidal Jumaa Abou Assi 43",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mayar Alyazaji 2",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": 5,
+    "location_of_death": "Al Karamah"
+  },
+  {
+    "name": "Mohammed Mahmoud AlMaghrabi",
+    "age": 24,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yasmine Nayef Alyazaji",
+    "age": null,
+    "location_of_death": "Al Karamah"
+  },
+  {
+    "name": "Wajdi Alyazaji",
+    "age": null,
+    "location_of_death": "Al Karamah"
+  },
+  {
+    "name": "Safinaz Alyazaji",
+    "age": null,
+    "location_of_death": "Al Karamah"
+  },
+  {
+    "name": "Mahran Kamel Joundiya",
+    "age": 32,
+    "location_of_death": "east Gaza"
+  },
+  {
+    "name": "Tamer Nayef Joundiya",
+    "age": 30,
+    "location_of_death": "Al Shujayea"
+  },
+  {
+    "name": "Rahma Ahmed Joundiya 50",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Ibrahim Shubaan Bakroon 37",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Yousif Gazi Hamadiya 25",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Moataz Jamal Hamadiya 18",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Aed Jamal Hamadiya",
+    "age": 21,
+    "location_of_death": "Al Shujayea"
+  },
+  {
+    "name": "Aya Yassir Alqasas",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Aisha Yassir alqasas",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Nasma Eyad Alqasas",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Lamiaa Eyad Alqasas",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Atiya Yousif Dardooneh",
+    "age": 26,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Fatima Ahmed Alaraja",
+    "age": null,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Esraa Alqasas",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Yasmine Alqasa",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Arwa Alqasas",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Alia Siyam",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Faiza Saber Siyam",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Sumaya Siyam",
+    "age": null,
+    "location_of_death": "Al Qasas residence"
+  },
+  {
+    "name": "Fadi Azmi Briyem",
+    "age": null,
+    "location_of_death": "Al Sharqiya"
+  },
+  {
+    "name": "Othman Salem Bryiem",
+    "age": null,
+    "location_of_death": "Al Sharqiya"
+  },
+  {
+    "name": "AbulMajeed Briyem",
+    "age": null,
+    "location_of_death": "Al Sharqiya"
+  },
+  {
+    "name": "Jehad Mahmoud Al Maghrabi 22",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Fadi Basheer Alabadela 22",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Ibrahim Dieb Ahmed Alkilani 53",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mahmoud Shaaban Mohammed Dirbas 37",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Yassir Ibrahim dieb Alkilani",
+    "age": 8,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Elias Ibrahim Dieb Alkilani",
+    "age": 4,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Tagreed Shaaban Mohammed Alkilani",
+    "age": 45,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Sawsan Ibrahim Dieb Alkilani",
+    "age": 11,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Reem Ibrahim Dieb Alkilani",
+    "age": 12,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Ayda Shabaan Mohammed Derbas",
+    "age": 47,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Sura Shaaban Mohammed Dirbas",
+    "age": 41,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Yaseen Ibrahim Dieb Alkilani",
+    "age": 9,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Yenas Shaaban Mohammed Dirbas",
+    "age": 30,
+    "location_of_death": "Burj Alsalam"
+  },
+  {
+    "name": "Wael Jamal Harb",
+    "age": 32,
+    "location_of_death": null
+  },
+  {
+    "name": "Hassan Khodir Baker",
+    "age": 60,
+    "location_of_death": "east Gaza"
+  },
+  {
+    "name": "Mahmoud Suleiman Abou Sabha",
+    "age": 55,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Abdullah Ismeal Albahysi",
+    "age": 27,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Mosaab Saleh Salameh",
+    "age": 19,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Nasser Haroun 38",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Naji Jamal Alfajam 26",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Ibtihal Ibrahim AlRamahi",
+    "age": null,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Yousif Ibrahim AlRamahi",
+    "age": null,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Eman Ibrahim AlRamahi",
+    "age": null,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Salwa Abou Muneefi",
+    "age": null,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Samira Abou Muneefi",
+    "age": null,
+    "location_of_death": "Deir Albalah"
+  },
+  {
+    "name": "Haitham Samir AlAga",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Waleed Sulieman Abou Thaher",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yasmine Ahmed Abou Amoor",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Sameh Zaheer Alsuwafeeri",
+    "age": 29,
+    "location_of_death": null
+  },
+  {
+    "name": "Mohammed Mousa Abou Fayyad",
+    "age": 36,
+    "location_of_death": null
+  },
+  {
+    "name": "Fatima Hassan Azzam",
+    "age": 70,
+    "location_of_death": "Al Zaytoun"
+  },
+  {
+    "name": "Mariam Hassan Azzam 50",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Suha Naeem Al Kharwat 25",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Mona Rami Al Kharwat 4",
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Aesha Yasser al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Nasma Iyad al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Lamyaa Iyad al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Israa al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Yasmin al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Arwa al-Qassas",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Aliaa al-Syam",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Fayza al-Syam",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Soumaya al-Syam",
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Fatima Ahmad al-Arja",
+    "age": null,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Atieh Youssef Dardouna",
+    "age": 26,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Fadi Azmi Brayaem",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Othman Salem Brayaem",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Salem Abdel Majeed Brayaem",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Ibrahim Dib Ahmad al-Kilani",
+    "age": 53,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Taghrid Shaaban Mohammed al-Kilani",
+    "age": 45,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Yaser Ibrahim Dib al-Kilani",
+    "age": 8,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Elias Ibrahim Dib al-Kilani",
+    "age": 4,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Sawsan Ibrahim Dib al-Kilani",
+    "age": 11,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Rim Ibrahim Dib al-Kilani",
+    "age": 12,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Yaseen Ibrahim Dib al-Kilani",
+    "age": 9,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Mahmoud Shaaban Mohammed Derbas",
+    "age": 37,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Aida Shaaban Mohammed Derbas",
+    "age": 47,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Soura Shaaban mohammed Derbas",
+    "age": 41,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Inas Shaaban Mohammed Derbas",
+    "age": 30,
+    "location_of_death": "Gaza City"
+  },
+  {
+    "name": "Jihad Mahmoud al-Maghribi",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Fadi Bashir al-Abadleh",
+    "age": 22,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Wael Jamal Harb",
+    "age": 32,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hasan Khodor Bakr",
+    "age": 60,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mahmoud Suleiman Abu Sobha",
+    "age": 55,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Abdullah Ismail al-Bahisi",
+    "age": 27,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Misaab Saleh Salameh",
+    "age": 19,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Mohammed Nasr Haroun",
+    "age": 38,
+    "location_of_death": "al-Nsayrat"
+  },
+  {
+    "name": "Naji Jamal al-Fajm",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Ibtihal Ibrahim al-Rimahi",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Youssef Ibrahim al-Rimahi",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Iman Ibrahim al-Rimahi",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Salwa Abu Monifi",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Samira Abu Monifi",
+    "age": null,
+    "location_of_death": "Deir al-Balah"
+  },
+  {
+    "name": "Haytham Samir al-Agha",
+    "age": 26,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Walid Suleiman Abu Daher",
+    "age": 21,
+    "location_of_death": "Khan Younis"
+  },
+  {
+    "name": "Yasmin Ahmad Abu Mor",
+    "age": 25,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Sameh Zahir al-Sowafiri",
+    "age": 29,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Mohammed Moussa Abu Fayad",
+    "age": 36,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Fatima Hasan Azzam",
+    "age": 70,
+    "location_of_death": "al-Zaytoun"
+  },
+  {
+    "name": "Maryam Hasan Azzam",
+    "age": 50,
+    "location_of_death": "al-Zaytoun"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": null
+  },
+  {
+    "name": "Soha Naim al-Kharwat",
+    "age": 25,
+    "location_of_death": "north Gaza"
+  },
+  {
+    "name": "Mona Rami al-Kharwat",
+    "age": 4,
+    "location_of_death": "north Gaza"
+  },
+  {
+    "name": "Ahmad Salah abu Sido",
+    "age": 17,
+    "location_of_death": "al-Mahatta"
+  },
+  {
+    "name": "Mahmoud Slim Mostafa Daraj",
+    "age": 22,
+    "location_of_death": "Jabalia"
+  },
+  {
+    "name": "Ibrahim Sobhi al-Firi",
+    "age": 25,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": "Ahmad Assaad al-Boudi",
+    "age": 24,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "Beit Lahia"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "al-Braij camp"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "al-Braij camp"
+  },
+  {
+    "name": null,
+    "age": null,
+    "location_of_death": "al-Braij camp"
+  },
+  {
+    "name": "Hasan Shaaban Khamisi",
+    "age": 28,
+    "location_of_death": "al-Maghazi camp"
+  },
+  {
+    "name": "Tareq Fayeq Hajjaj",
+    "age": 22,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Ahmad Ziad Hajjaj",
+    "age": 21,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Mohammed Shahadeh Hajjaj",
+    "age": 31,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Fayza Saleh Abdul Rahman Hajjaj",
+    "age": 66,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Rawan Ziad Hajjaj",
+    "age": 15,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Youssef Mohammed Hajjaj",
+    "age": 28,
+    "location_of_death": "Gaza"
+  },
+  {
+    "name": "Hakema Nafea Abu Edwan",
+    "age": 75,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Najah Nafea Abu Edwan",
+    "age": 85,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Misaab Nafeth al-Ajala",
+    "age": 30,
+    "location_of_death": "al-Shujayeh"
+  },
+  {
+    "name": "Khalaf Atieh Abu Sanima",
+    "age": 18,
+    "location_of_death": "Rafah"
+  },
+  {
+    "name": "Khalil Atieh Abu Sanima",
+    "age": 20,
+    "location_of_death": "Rafah"
+  }
+]

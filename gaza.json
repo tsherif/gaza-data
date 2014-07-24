@@ -2310,9 +2310,9 @@
     "location_of_death": "Rafah"
   },
   {
-    "name": "Abdullah Tarad Abou Hajeer 16",
-    "age": null,
-    "location_of_death": null
+    "name": "Abdullah Tarad Abou Hajeer",
+    "age": 16,
+    "location_of_death": "Al Nusriyat"
   },
   {
     "name": "Zakariah Masoud alAshkar",
@@ -2360,19 +2360,19 @@
     "location_of_death": "Khan Younis"
   },
   {
-    "name": "Nidal Ali Abou Diqa 26",
-    "age": null,
-    "location_of_death": null
+    "name": "Nidal Ali Abou Diqa",
+    "age": 26,
+    "location_of_death": "Khan Younis"
   },
   {
-    "name": "Nidal Jumaa Abou Assi 43",
-    "age": null,
-    "location_of_death": null
+    "name": "Nidal Jumaa Abou Assi",
+    "age": 43,
+    "location_of_death": "Khan Younis"
   },
   {
-    "name": "Mayar Alyazaji 2",
-    "age": null,
-    "location_of_death": null
+    "name": "Mayar Alyazaji",
+    "age": 2,
+    "location_of_death": "Al Karamah"
   },
   {
     "name": null,
@@ -2410,24 +2410,24 @@
     "location_of_death": "Al Shujayea"
   },
   {
-    "name": "Rahma Ahmed Joundiya 50",
-    "age": null,
-    "location_of_death": null
+    "name": "Rahma Ahmed Joundiya",
+    "age": 50,
+    "location_of_death": "Al Shujayea"
   },
   {
-    "name": "Ibrahim Shubaan Bakroon 37",
-    "age": null,
-    "location_of_death": null
+    "name": "Ibrahim Shubaan Bakroon",
+    "age": 37,
+    "location_of_death": "Al Shaaf"
   },
   {
-    "name": "Yousif Gazi Hamadiya 25",
-    "age": null,
-    "location_of_death": null
+    "name": "Yousif Gazi Hamadiya",
+    "age": 25,
+    "location_of_death": "Al Shujayea"
   },
   {
-    "name": "Moataz Jamal Hamadiya 18",
-    "age": null,
-    "location_of_death": null
+    "name": "Moataz Jamal Hamadiya",
+    "age": 18,
+    "location_of_death": "Al Shujayea"
   },
   {
     "name": "Aed Jamal Hamadiya",
@@ -2510,24 +2510,24 @@
     "location_of_death": "Al Sharqiya"
   },
   {
-    "name": "Jehad Mahmoud Al Maghrabi 22",
-    "age": null,
-    "location_of_death": null
+    "name": "Jehad Mahmoud Al Maghrabi",
+    "age": 22,
+    "location_of_death": "Khan Younis"
   },
   {
-    "name": "Fadi Basheer Alabadela 22",
-    "age": null,
-    "location_of_death": null
+    "name": "Fadi Basheer Alabadela",
+    "age": 22,
+    "location_of_death": "Khan Younis"
   },
   {
-    "name": "Ibrahim Dieb Ahmed Alkilani 53",
-    "age": null,
-    "location_of_death": null
+    "name": "Ibrahim Dieb Ahmed Alkilani",
+    "age": 53,
+    "location_of_death": "Burj Alsalam"
   },
   {
-    "name": "Mahmoud Shaaban Mohammed Dirbas 37",
-    "age": null,
-    "location_of_death": null
+    "name": "Mahmoud Shaaban Mohammed Dirbas",
+    "age": 37,
+    "location_of_death": "Burj Alsalam"
   },
   {
     "name": "Yassir Ibrahim dieb Alkilani",
@@ -2600,14 +2600,14 @@
     "location_of_death": "Khan Younis"
   },
   {
-    "name": "Mohammed Nasser Haroun 38",
-    "age": null,
-    "location_of_death": null
+    "name": "Mohammed Nasser Haroun",
+    "age": 38,
+    "location_of_death": "Al Nasriyat"
   },
   {
-    "name": "Naji Jamal Alfajam 26",
-    "age": null,
-    "location_of_death": null
+    "name": "Naji Jamal Alfajam",
+    "age": 26,
+    "location_of_death": "Khan Younis"
   },
   {
     "name": "Ibtihal Ibrahim AlRamahi",

@@ -43,11 +43,13 @@ fs.readFile(input, { encoding: "utf8" }, function(err, data) {
     var name = line[0] || null;
     var age = line[1] ? parseFloat(line[1]) : null;
     var location_of_death = line[2] ? line[2].replace("killed in ", "") : null;
+    var date_of_death = line[3] || null;
 
     dead.push({
       name: name,
       age: age,
-      location_of_death: location_of_death
+      location_of_death: location_of_death,
+      date_of_death: date_of_death
     });
   });
 

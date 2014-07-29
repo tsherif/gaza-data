@@ -2,171 +2,289 @@
   {
     "name": "Dror Khenin",
     "age": 37,
-    "location_of_death": "Erez crossing"
+    "location_of_death": "Erez military base",
+    "date_of_death": "15/07/2014"
+  },
+  {
+    "name": "Major Tsafrir Bar-Or",
+    "age": 32,
+    "location_of_death": null,
+    "date_of_death": "17/07/2014"
+  },
+  {
+    "name": "Captain Zvika Kaplan",
+    "age": 28,
+    "location_of_death": "West Bank",
+    "date_of_death": "17/07/2014"
+  },
+  {
+    "name": "Sergeant Oz Mendelovich",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "17/07/2014"
+  },
+  {
+    "name": "Sergeant Nissim Sean Carmeli",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "17/07/2014"
+  },
+  {
+    "name": "Sergeant Gilad Yaakobi",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "17/07/2014"
   },
   {
     "name": "Eitan Barak",
-    "age": 20,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": null,
     "age": null,
-    "location_of_death": "Bedouin community near Dimona"
+    "location_of_death": "Gaza",
+    "date_of_death": "18/07/2014"
   },
   {
-    "name": "Bar Rahav",
-    "age": 21,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Bnaya Rubel",
-    "age": 20,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Adar Barsano",
-    "age": 20,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Amotz Greenberg",
+    "name": "Major Amotz Greenberg",
     "age": 45,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": "19/07/2014"
   },
   {
-    "name": "Oren Simcha Noach",
-    "age": 22,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Ben Itzhak Oanouno",
-    "age": 19,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Daniel Pomerantz",
+    "name": "Sergeant Adar Bersano",
     "age": 20,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": "19/07/2014"
+  },
+  {
+    "name": "Second Lieutenant Bar Rahav",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": "19/07/2014"
+  },
+  {
+    "name": "Sergeant Bnaya Rubel",
+    "age": 20,
+    "location_of_death": "Gaza",
+    "date_of_death": "19/07/2014"
+  },
+  {
+    "name": "Ya'er Ashkenazi",
+    "age": null,
+    "location_of_death": "Gaza",
+    "date_of_death": "25/07/2014"
   },
   {
     "name": "Shon Mondshine",
     "age": 19,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Oren Simcha Noach",
+    "age": 22,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Ben Itzhak Oanouno",
+    "age": 19,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Daniel Pomerantz",
+    "age": 20,
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Shachar Tase",
     "age": 20,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Max Steinberg",
     "age": 24,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Tzafrir Baror",
-    "age": 32,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Tsvi Kaplan",
-    "age": 28,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Gilad Rozenthal Yacoby",
-    "age": 21,
-    "location_of_death": "Gaza"
-  },
-  {
-    "name": "Oz Mendelovich",
-    "age": 21,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Nissim Sean Carmeli",
     "age": 21,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Tzafrir Baror",
+    "age": 32,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Tsvi Kaplan",
+    "age": 28,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Gilad Rozenthal Yacoby",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Moshe Malko",
     "age": 20,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Jordan Bensemhoun",
     "age": 22,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Yuval Dagan",
     "age": 22,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Tal Ifrach",
     "age": 21,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Nadav Goldmacher",
     "age": 23,
-    "location_of_death": "in Israel"
+    "location_of_death": "Israel",
+    "date_of_death": null
   },
   {
     "name": "Yuval Haiman",
     "age": 21,
-    "location_of_death": "Israel"
+    "location_of_death": "Israel",
+    "date_of_death": null
   },
   {
     "name": "Bayhesain Kshaun",
     "age": 39,
-    "location_of_death": "Israel"
+    "location_of_death": "Israel",
+    "date_of_death": null
   },
   {
     "name": "Dolev Keidar",
     "age": 38,
-    "location_of_death": "Israel"
+    "location_of_death": "Israel",
+    "date_of_death": null
   },
   {
     "name": "Oded Ben Sira",
     "age": 22,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Ohad Shemesh",
     "age": 27,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Avitar Moshe Torjamin",
     "age": 20,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Dmitri Levitas",
     "age": 26,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Natan Cohen",
     "age": 23,
-    "location_of_death": "Gaza"
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Paz Elyahu",
     "age": 22,
-    "location_of_death": null
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Li Mat",
     "age": 19,
-    "location_of_death": null
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Shahar Dauber",
     "age": 20,
-    "location_of_death": null
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Guy Boyland",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Barak Refael Degorker",
+    "age": 27,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Liad Lavi",
+    "age": 22,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Rami Chalon",
+    "age": 39,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Amit Yeori",
+    "age": 20,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Guy Levy",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": "Roy Peles"
+  },
+  {
+    "name": "Avraham Grintzvaig",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Gal Bason",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": null
+  },
+  {
+    "name": "Auda al-Wadj",
+    "age": 32,
+    "location_of_death": null,
+    "date_of_death": "19/07/2014"
+  },
+  {
+    "name": "Narakorn Kitiyangkul",
+    "age": 36,
+    "location_of_death": "Israel",
+    "date_of_death": null
   }
 ]

@@ -6,31 +6,31 @@
     "date_of_death": "15/07/2014"
   },
   {
-    "name": "Major Tsafrir Bar-Or",
+    "name": "Tsafrir Bar-Or",
     "age": 32,
     "location_of_death": null,
     "date_of_death": "17/07/2014"
   },
   {
-    "name": "Captain Zvika Kaplan",
+    "name": "Zvika Kaplan",
     "age": 28,
     "location_of_death": "West Bank",
     "date_of_death": "17/07/2014"
   },
   {
-    "name": "Sergeant Oz Mendelovich",
+    "name": "Oz Mendelovich",
     "age": 21,
     "location_of_death": null,
     "date_of_death": "17/07/2014"
   },
   {
-    "name": "Sergeant Nissim Sean Carmeli",
+    "name": "Nissim Sean Carmeli",
     "age": 21,
     "location_of_death": null,
     "date_of_death": "17/07/2014"
   },
   {
-    "name": "Sergeant Gilad Yaakobi",
+    "name": "Gilad Yaakobi",
     "age": 21,
     "location_of_death": null,
     "date_of_death": "17/07/2014"
@@ -42,13 +42,13 @@
     "date_of_death": "18/07/2014"
   },
   {
-    "name": "Major Amotz Greenberg",
+    "name": "Amotz Greenberg",
     "age": 45,
     "location_of_death": "Gaza",
     "date_of_death": "19/07/2014"
   },
   {
-    "name": "Sergeant Adar Bersano",
+    "name": "Adar Bersano",
     "age": 20,
     "location_of_death": "Gaza",
     "date_of_death": "19/07/2014"
@@ -60,7 +60,7 @@
     "date_of_death": "19/07/2014"
   },
   {
-    "name": "Sergeant Bnaya Rubel",
+    "name": "Bnaya Rubel",
     "age": 20,
     "location_of_death": "Gaza",
     "date_of_death": "19/07/2014"
@@ -261,7 +261,13 @@
     "name": "Guy Levy",
     "age": 21,
     "location_of_death": "Gaza",
-    "date_of_death": "Roy Peles"
+    "date_of_death": null
+  },
+  {
+    "name": "Roy Peles",
+    "age": 21,
+    "location_of_death": "Gaza",
+    "date_of_death": null
   },
   {
     "name": "Avraham Grintzvaig",

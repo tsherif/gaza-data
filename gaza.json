@@ -1,5 +1,137 @@
 [
   {
+    "name": "Maida' Mohammad Aslan",
+    "age": 0.084,
+    "location_of_death": "Gaza",
+    "date_of_death": "11/08/2014"
+  },
+  {
+    "name": "Mohammad ar-Roumy",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "11/08/2014"
+  },
+  {
+    "name": "Ahmad Mohammad Atiyya al-Masri",
+    "age": 17,
+    "location_of_death": "Deir al-Balah",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Amani Abed al-Bakara",
+    "age": 35,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Ahmad Mohammad Atiyya al-Masri",
+    "age": 14,
+    "location_of_death": "Deir al-Balah",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Anwar Mustafa Za’anin",
+    "age": 17,
+    "location_of_death": "Gaza",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Saqer Abdullah Reehan",
+    "age": 25,
+    "location_of_death": "Gaza",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Ehsan Hussein Kaware’",
+    "age": 24,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "10/08/2014"
+  },
+  {
+    "name": "Moath Azzam Abu Zeid",
+    "age": 37,
+    "location_of_death": "Nusseirat",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Nidal Badran",
+    "age": 34,
+    "location_of_death": "Nusseirat",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Tareq Ziad Abdullah",
+    "age": 25,
+    "location_of_death": "Nusseirat",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Abdul-Hakim Suleiman al-Masdar",
+    "age": 65,
+    "location_of_death": "al-Maghazi",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Moath Akram al-Masdar",
+    "age": 19,
+    "location_of_death": "al-Maghazi",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Aaya Nour ash-Sha’er",
+    "age": 13,
+    "location_of_death": "Rafah",
+    "date_of_death": "09/08/2014"
+  },
+  {
+    "name": "Ibrahim Zoheir ad-Dawawsa",
+    "age": 10,
+    "location_of_death": "Gaza",
+    "date_of_death": "08/08/2014"
+  },
+  {
+    "name": "Mahmoud Mohammad Abu Haddaf",
+    "age": null,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "08/08/2014"
+  },
+  {
+    "name": "Suleiman Samir Abu Haddaf",
+    "age": null,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "08/08/2014"
+  },
+  {
+    "name": "Mahmoud Khaled Abu Haddaf",
+    "age": null,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "08/08/2014"
+  },
+  {
+    "name": "Ahmad Na’im ‘Okal",
+    "age": 22,
+    "location_of_death": "Rafah",
+    "date_of_death": "08/08/2014"
+  },
+  {
+    "name": "Mohammad Jom’a Najjar",
+    "age": 32,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "07/08/2014"
+  },
+  {
+    "name": "Nida Raed 'Oleywa",
+    "age": 12,
+    "location_of_death": "Gaza",
+    "date_of_death": "05/08/2014"
+  },
+  {
+    "name": "Sha'ban Suleiman ad-Dahdouh",
+    "age": 24,
+    "location_of_death": "Gaza",
+    "date_of_death": "05/08/2014"
+  },
+  {
     "name": "Dia’ ed-Deen Mohammad al-Madhoun",
     "age": 23,
     "location_of_death": "Gaza",
@@ -2706,19 +2838,19 @@
     "date_of_death": "27/07/2014"
   },
   {
-    "name": "Husam Abul-Ghani Yassin",
-    "age": 15,
+    "name": "Husam Abdul-Ghani Yassin",
+    "age": 17,
     "location_of_death": "Gaza",
     "date_of_death": "26/07/2014"
   },
   {
     "name": "Ismael Abdul-Qader al-Kojok",
-    "age": 53,
+    "age": 54,
     "location_of_death": "Gaza",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Mohammad Hosni as-Saqqa",
+    "name": "Mohammad Said Hosni as-Saqqa",
     "age": 20,
     "location_of_death": "Gaza",
     "date_of_death": "26/07/2014"
@@ -2760,13 +2892,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Hani Adel Abu Hassanen",
-    "age": 24,
-    "location_of_death": "Gaza",
-    "date_of_death": "26/07/2014"
-  },
-  {
-    "name": "Abdullah 'Ayesh Salam Ermeilat",
+    "name": "Abdullah ‘Ayesh Salam Ermeilat",
     "age": 39,
     "location_of_death": "Deir al-Balah",
     "date_of_death": "26/07/2014"
@@ -2784,13 +2910,13 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Khalil Mohammad al-Najjar",
+    "name": "Khalil Mohammad an-Najjar",
     "age": 59,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Jona al-Najjar",
+    "name": "Jona an-Najjar",
     "age": null,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
@@ -2802,73 +2928,73 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Amna al-Najjar",
+    "name": "Amna an-Najjar",
     "age": null,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Majed Sameer Al-Najjar",
+    "name": "Majed Sameer an-Najjar",
     "age": 19,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Ghalia Mohammed al-Najjar",
+    "name": "Ghalia Mohammed an-Najjar",
     "age": 56,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Ahmad Khaled Mohammad al-Najjar",
+    "name": "Ahmad Khaled Mohammad an-Najjar",
     "age": 14,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Eman Salah Mahmoud al-Najjar",
+    "name": "Eman Salah Mahmoud an-Najjar",
     "age": 23,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Sumayya Harb Yousef al-Najjar",
+    "name": "Sumayya Harb Yousef an-Najjar",
     "age": 50,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Kifah Samir Hasan al-Najjar",
+    "name": "Kifah Samir Hasan an-Najjar",
     "age": 23,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Rawan Khaled Mohammad al-Najjar",
+    "name": "Rawan Khaled Mohammad an-Najjar",
     "age": 17,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Husam Hussein al-Najjar",
+    "name": "Husam Hussein an-Najjar",
     "age": 7,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Samir Hussein al-Najjar",
+    "name": "Samir Hussein an-Najjar",
     "age": 2,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Moa'taz Hussein Samir an-Najjar",
+    "name": "Moa’taz Hussein Samir an-Najjar",
     "age": 6,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Ulfat Hussein Samir al-Najjar",
+    "name": "Ulfat Hussein Samir an-Najjar",
     "age": 4,
     "location_of_death": "Khan Younis",
     "date_of_death": "26/07/2014"
@@ -2916,8 +3042,8 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Arafat Abu Oweily",
-    "age": null,
+    "name": "Arafat Salem Abu Oweily",
+    "age": 27,
     "location_of_death": "Central District",
     "date_of_death": "26/07/2014"
   },
@@ -2952,7 +3078,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Abdul-Majeed Abdullah Abdul-Majeed al-A'ady",
+    "name": "Abdul-Majeed Abdullah Abdul-Majeed al-A’ady",
     "age": 36,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -2970,7 +3096,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "'Amro Abdul-Hakim as-Sheikh Khalil",
+    "name": "‘Amro Abdul-Hakim as-Sheikh Khalil",
     "age": 25,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -2994,7 +3120,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Osama Issam Fawzi 'Azzam",
+    "name": "Osama Issam Fawzi ‘Azzam",
     "age": 23,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -3006,20 +3132,14 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Sami Fathi al-Ar-'Eir",
+    "name": "Sami Fathi al-Ar-‘Eir",
     "age": 49,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Fathi Sami Fathi al-Ar-'Eir",
+    "name": "Fathi Sami Fathi al-Ar-‘Eir",
     "age": 20,
-    "location_of_death": null,
-    "date_of_death": "26/07/2014"
-  },
-  {
-    "name": "Mohammad Ahmad Kamal Abu al-'Ata",
-    "age": 29,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
   },
@@ -3030,7 +3150,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Aziza 'Atiteh Mohammad Abu Shanab",
+    "name": "Aziza ‘Atiyeh Mohammad Abu Shanab",
     "age": 77,
     "location_of_death": "Deir al-Balah",
     "date_of_death": "26/07/2014"
@@ -3054,7 +3174,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Omar Ismail Ali Quz'aat",
+    "name": "Omar Ismail Ali Quz’aat",
     "age": 18,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -3114,7 +3234,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Raja' Hamad Mohammad ad-Daghme",
+    "name": "Raja’ Hamad Mohammad ad-Daghme",
     "age": 36,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -3138,7 +3258,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Wala' Mohammad Ali al-Qayedh",
+    "name": "Wala’ Mohammad Ali al-Qayedh",
     "age": 15,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -3156,7 +3276,7 @@
     "date_of_death": "26/07/2014"
   },
   {
-    "name": "Mosab Salah al-Aab Abu al-A'ata",
+    "name": "Mosab Salah al-Aab Abu al-A’ata",
     "age": 20,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
@@ -3170,6 +3290,690 @@
   {
     "name": "Ismail Aish Abed Abu Ghneimah",
     "age": 24,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Ahmad Khaled Hassouneh",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mazin Adnan Salman Abdin",
+    "age": 25,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Salah Eshtewy Ibrahim Adbin",
+    "age": 42,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed Salameh Mohammed Abu Khousa",
+    "age": 75,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Salman Mohammed Ahmed Sama'na",
+    "age": 30,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Do'a' Sani Ibrahim Sama'na",
+    "age": 11,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed Sa'id Sha'ban Baba",
+    "age": 40,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ikram Ahmed Tawfiq al-Shanbari",
+    "age": 23,
+    "location_of_death": "Beit Hanoun",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Sami Fathi Ahmed al-'Ar'ir",
+    "age": 50,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed Rafiq Sa'id al-'Ar'ir",
+    "age": 30,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hassan Fathi Ahmad al-'Ar'ir",
+    "age": 39,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "'Abdul Karim Fathi Ahmed al-'Ar'ir",
+    "age": 34,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Fathi Sami Fathi al-'Ar'ir",
+    "age": 20,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Khaled Yousef Mohammed Badwan",
+    "age": 48,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Azmi Khaled Yousef Badwan",
+    "age": 16,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "'Abdul Rahman Ziad Hassan Abu Hain",
+    "age": 28,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed 'Essam Dib Abu Balta",
+    "age": 28,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mahmoud Ra'ed Mahmoud al-'Eish",
+    "age": 23,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Fadi 'Abdul Qader 'Abdul Malek Habib",
+    "age": 31,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Farid Abdul-Khader Abdul-Malik Habib",
+    "age": 38,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Adham Majed Yousef Dhaher",
+    "age": 18,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Mahmoud Rajab Hajjaj",
+    "age": 32,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Ahmed Kamel Abu al-'Ata",
+    "age": 32,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Mahmoud Sa'id Abu al-'Ata",
+    "age": 28,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed Riad Sha'ban Shabet",
+    "age": 25,
+    "location_of_death": "at-Tuffah",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hisham Abdul-Karim Ahmad Abu Mour",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Ibrahim Ahmad az-Zweidi",
+    "age": 30,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ala' Maher Juma' Tamtish",
+    "age": 19,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Abdul-Jawad Ali Abul-Jawad Al-Houm",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ehab Sa'dy Mohammad Nassr",
+    "age": 22,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Abdullah Hussein al-Jawajri",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Wisam Sofyan Omar al-Kilani",
+    "age": 27,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "A'ed Mahmoud Ahmad al-Bura'i",
+    "age": 29,
+    "location_of_death": "Beit Hanoun",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Munther Talal Abdul-Karim Nassar",
+    "age": 33,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Tamer Talal Abdul-Karim Nassar",
+    "age": 24,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ala' Abdul-Rahman Mohammad Nassar",
+    "age": 25,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Taher Ismail Abdul-Rahman Nassar",
+    "age": 18,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Sharif Rafiq Mohammad al-Hamdin",
+    "age": 26,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ala' Khaled Najib al-Yaziji",
+    "age": 21,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Jihad Mahmoud Hamed al-Hilu",
+    "age": 59,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Siham 'Ata al-Hilu",
+    "age": 57,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Jihad Mahmoud al-Hilu",
+    "age": 29,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Tahreer Jihad Mahmoud al-Hilu",
+    "age": 20,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Najiya Jihad Mahmoud al-Hilu",
+    "age": 15,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ahmad Jihad Mahmoud al-Hilu",
+    "age": 27,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hidaya Talal al-Hilu",
+    "age": 25,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Maram Ahmad Jihad al-Hilu",
+    "age": 2,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Abdul-Kareem Ahmad Jihad al-Hilu",
+    "age": 1,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Karam Ahmad Jihad al-Hilu",
+    "age": 0.42,
+    "location_of_death": "Sheja'eyya",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ayman Anwar Salem Burai'em",
+    "age": 39,
+    "location_of_death": "Gaza",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Suleiman Zaki 'Abdul Mawla al-Dardissi",
+    "age": 27,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ahmad Shawqi Mohammad Sa'ada",
+    "age": 37,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammed Ibrahim Hamdan Abu T'aima",
+    "age": 25,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ra'ed Khalil Hamdan Abu T'aima",
+    "age": 33,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mamdouh Mallahi Suleiman Abu Naja",
+    "age": 24,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ayman Akram Ismail al-Ghalban",
+    "age": 22,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Jihad Naji Abu 'Aamer",
+    "age": 22,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Rabah Rashed Mosallam Fayad",
+    "age": 40,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Fadi Mahmoud Sa'd al-Masri",
+    "age": 22,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Eyad Yousef al-Sadi",
+    "age": 24,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Salem Mustafa al-Hadhidi",
+    "age": 18,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Wassim Nasser 'Abdu Shurrab",
+    "age": 22,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "'Ali Mohammed 'Ali al-Astal",
+    "age": 32,
+    "location_of_death": "Khan Younis",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Fawzi Ahmad Abu Amsha",
+    "age": 67,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Na'ma Mohammad Hussein Abu Amsha",
+    "age": 64,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Wassim Salah Abu Riziq Al-Masri",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Saed Munir Shida Abu Khater",
+    "age": 19,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Amar Mustafa Rashid Hamdouna",
+    "age": 22,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Tariq Mohammad Moehsin al-Ajrami",
+    "age": 25,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hamza Mazin Khalil Madhi",
+    "age": 23,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ismail Younis Abdullah Khalla",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Abdul-Rahman Yusef Ahmad Saadat",
+    "age": 24,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Khaled Abdullah Mahmoud Adwan",
+    "age": 30,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Osama Mohammad Nassr al-Kafarneh",
+    "age": 50,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Khaled 'Ata Mohammad Abu Shehadeh",
+    "age": 23,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hani 'Adel Mohammad Abu Hashish",
+    "age": 23,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Ahmad Abu Dawabe'",
+    "age": 19,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Ali Khalil Saidam",
+    "age": 17,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ibrahim Mohammad Awad Barak",
+    "age": 19,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Bilal Bassam Salem al-Masri",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Anwar Abdul-Khader Hasan Younis",
+    "age": 2,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Arafat Salem Ahmad Abu Oweily",
+    "age": 27,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Fayez Sha'ban al-Sharif",
+    "age": 23,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mahmoud al-Sharif",
+    "age": 24,
+    "location_of_death": "Central District",
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hossam Mohammad Suleiman Abu Ghneifi",
+    "age": 18,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ghassan Taher Suleiman Abu Kamil",
+    "age": 25,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ismail Abdul-Jawad Ismail Abu Sa'ada",
+    "age": 26,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mahmoud Riyadh Abdul-Khader Miq'dad",
+    "age": 22,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mazin Yusef Suleiman Abu Joerban",
+    "age": 31,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Shaker Ahmad Shaker al-Jamal",
+    "age": 46,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Faisal Fa'eq al-At-Toame",
+    "age": 31,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hazem Yusef Abdul-Rahman al-Moebid",
+    "age": 34,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Abdullah Nabil Abdul-Khader al-Batsh",
+    "age": 21,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Sharif Jalal Hasan al-Karshali",
+    "age": 27,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Arafat Saleh Khalil al-Ghamare",
+    "age": 33,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Abdul-Raziq Shoeban Abed Ommar",
+    "age": 27,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Amjad Nahedh Ala' al-Sarefy",
+    "age": 22,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Adham Majed Yousef Daher",
+    "age": 18,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Hamza Hassan Mahmoud Halas",
+    "age": 25,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ahmad Mousa Ahmad Ahl",
+    "age": 75,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mohammad Hussein Hasan al-Nasri",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mahmoud Husam Mohammad Mansour",
+    "age": 22,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mosab Mustafa Rajeb Ali",
+    "age": 20,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Mo'amin Mustafa Mahmoud al-Kasha",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Eyas Ahmad Mohammad Abu Ouda",
+    "age": 28,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Nidal Khaled Mohammad Khalil",
+    "age": 20,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Nader Majdi Abdul-Rahman Qassim",
+    "age": 30,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Eman Ibrahim Suleiman al-Ghandour",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Salmad Hamad Salmad al-Amour",
+    "age": 32,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Rifat Nabil Ramadan Oweida",
+    "age": 27,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ashraf Qassim Mansour Wafi",
+    "age": 25,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Baha Rafiq Oweida",
+    "age": 36,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Ahmad Barham Oleiman Abu Daqqa",
+    "age": null,
+    "location_of_death": null,
+    "date_of_death": "26/07/2014"
+  },
+  {
+    "name": "Taysir Mohammad Aish an-Najjar",
+    "age": null,
     "location_of_death": null,
     "date_of_death": "26/07/2014"
   },
@@ -3447,6 +4251,30 @@
     "name": "Mohammad Matar al-'Abadla",
     "age": 32,
     "location_of_death": "Khan Younis",
+    "date_of_death": "25/07/2014"
+  },
+  {
+    "name": "Husam Mohammad Najjar",
+    "age": null,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "25/07/2014"
+  },
+  {
+    "name": "Sha’ban Abdul-Aziz al-Jamal",
+    "age": null,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "25/07/2014"
+  },
+  {
+    "name": "Mohammad Wisam Dardouna",
+    "age": null,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "25/07/2014"
+  },
+  {
+    "name": "Ala’ Joudy Khader",
+    "age": null,
+    "location_of_death": "Beit Lahia",
     "date_of_death": "25/07/2014"
   },
   {
@@ -4392,12 +5220,6 @@
     "date_of_death": "22/07/2014"
   },
   {
-    "name": "Salwa Abu Mneifi",
-    "age": null,
-    "location_of_death": "Khan Younis",
-    "date_of_death": "22/07/2014"
-  },
-  {
     "name": "Abdullah Ismael al-Baheessy",
     "age": 27,
     "location_of_death": "Deir al-Balah",
@@ -4976,6 +5798,12 @@
   {
     "name": "Rahma Ahmad Jundiyya",
     "age": 50,
+    "location_of_death": null,
+    "date_of_death": "21/07/2014"
+  },
+  {
+    "name": "Ahed Kamal Mohammad Jundiyya",
+    "age": 31,
     "location_of_death": null,
     "date_of_death": "21/07/2014"
   },
@@ -6188,12 +7016,6 @@
   {
     "name": "Tariq Samir Khalil al-Hatou",
     "age": 26,
-    "location_of_death": "Central District",
-    "date_of_death": "19/07/2014"
-  },
-  {
-    "name": "Mahmoud al-Sharif",
-    "age": 24,
     "location_of_death": "Central District",
     "date_of_death": "19/07/2014"
   },

@@ -37,7 +37,12 @@ fs.readFile(input, { encoding: "utf8" }, function(err, data) {
 
   var lines = data.split("\n");
 
-  lines.forEach(function(line) {
+  lines.forEach(function(line, line_no) {
+    if (!line.trim().match(/^[^,\n]*,\d*\.?\d*,[^,\n\d]*,(\d+\/\d+\/\d+)?$/)) {
+      console.error("Line ", line_no + 1, " invalid: ", line);
+      process.exit(1);
+    }
+
     line = line.trim().split(",");
 
     var name = line[0] || null;

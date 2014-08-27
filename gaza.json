@@ -1,5 +1,131 @@
 [
   {
+    "name": "Mohammad Mo'in Abu 'Ajwa",
+    "age": null,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Hasan Omar as-Awwad",
+    "age": null,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Shadi 'Oleiwa",
+    "age": 26,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Salem Mohammaden",
+    "age": 26,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Mohammad Abdul-Rahman Thaher",
+    "age": 49,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Samer Midhat Hamad",
+    "age": 24,
+    "location_of_death": "Gaza City",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Mohammad Majdi Za'anin",
+    "age": null,
+    "location_of_death": "Beit Hanoun",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Yousef Ghannam",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Mohammad Saleh ar-Ribaty",
+    "age": 18,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Ahmad Kamel Jarboa'",
+    "age": 26,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Omar Husam al-Breem",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Mohammad Husam al-Breem",
+    "age": null,
+    "location_of_death": "Rafah",
+    "date_of_death": "26/08/2014"
+  },
+  {
+    "name": "Yassin Ibrahim al-Biltaji",
+    "age": 23,
+    "location_of_death": "Gaza",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Farhana Ibrahim al-'Attrar",
+    "age": 48,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Osama Mohammad Shbeir",
+    "age": 25,
+    "location_of_death": "Jabalia",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Hani Mohammad Yassin",
+    "age": 20,
+    "location_of_death": "Gaza City",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Raddad Ahmad Tanboura",
+    "age": 78,
+    "location_of_death": "Beit Lahia",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Saad Bassem aj-Jour",
+    "age": 21,
+    "location_of_death": "Gaza City",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Abdullah Murtaja",
+    "age": null,
+    "location_of_death": "Shujaeyya",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Bassem Hassan Hijazi",
+    "age": 36,
+    "location_of_death": "Gaza City",
+    "date_of_death": "25/08/2014"
+  },
+  {
+    "name": "Ahmad Taysir Fahmi al-Daali",
+    "age": 28,
+    "location_of_death": "Gaza City",
+    "date_of_death": "25/08/2014"
+  },
+  {
     "name": "Yahia Saber Abu al-'Omarein",
     "age": null,
     "location_of_death": "Gaza",
@@ -87,7 +213,7 @@
     "name": "Yahia Abu Daqen",
     "age": 27,
     "location_of_death": "Gaza",
-    "date_of_death": "23/08/2014"
+    "date_of_death": "24/08/2014"
   },
   {
     "name": "Hadi Hayel Abu Dahrouj",

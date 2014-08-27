@@ -2,7 +2,7 @@
 // DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 // Version 2, December 2004
 // 
-// Copyright (c) 2013 Tarek Sherif
+// Copyright (c) 2014 Tarek Sherif
 // 
 // Everyone is permitted to copy and distribute verbatim or modified
 // copies of this license document, and changing it is allowed as long
